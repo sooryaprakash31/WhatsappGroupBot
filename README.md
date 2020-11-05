@@ -13,7 +13,7 @@
 2. Download geckodriver from [here](https://github.com/mozilla/geckodriver/releases) and place it in the folder
 3. Get your FireFox profile path using `about:profiles` and paste it in the `config.ini` file as the value for `PROFILE_PATH`
 4. Enter the exact group name in the `config.ini` file as the value for `GROUP_NAME`
-5. Place the .CSV file with phone number in the column `number` and rename it as `data.csv`
+5. Place the `.csv` file with phone number in the column `number` and rename it as `data.csv`
 
 ## Execution
 1. `cd WhatsappGroupBot`
