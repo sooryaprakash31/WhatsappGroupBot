@@ -20,7 +20,7 @@
 2. `python3 create_contact_list.py`
    -  `contacts.csv` file will be created
    -  Visit [contacts.google.com](https://contacts.google.com/) and import the `contacts.csv`
-3. `python3 add_to_whatsapp.py`
+3. `python3 add_to_group.py`
 
 
 ## Output
